@@ -1,10 +1,10 @@
-78c59f71d6ed36035840b2e2e59f3a24 *DESCRIPTION
+1b41ef96943697bcc2970830c16356ae *DESCRIPTION
 6849df45c6dfcb6353b76b2b4ab4f668 *LICENSE
 764fc62f8921fdcd0d1a6f7621ce248f *NAMESPACE
-298eef9b918293718b55b91e0bcb46a6 *NEWS
+b23a82c1fc4b1114b6b5c7d569110ff9 *NEWS
 01207765149e681779b92f06a66fe1fa *R/advanced_search_terms-data.R
 9989cc2fcd439c0bbc710f4a559a6e65 *R/clinicaltrials_count.R
-42814c9415dcee44db9424d380b5345f *R/clinicaltrials_download.R
+a7fb91383235e60e10f28494b59b19c7 *R/clinicaltrials_download.R
 9bdff55d455187068bcaf797056320bf *R/clinicaltrials_search.R
 274596573d19983b4f2b45a171cbc688 *R/gather_results.R
 a2ae71088d65fb965ed06dfd16490d57 *R/load-data.R
@@ -15,7 +15,7 @@ a59eddfc7bdae1243c9c8951058dcc5e *data/advanced_search_terms.RData
 8a5409261a4d7631201f99fa94fc1136 *data/advanced_search_terms.csv
 15f0e4f8e1caebc17b62369ad5cb3dec *inst/doc/basics.R
 d3db18e4d1241f22d3169f3a6290c20b *inst/doc/basics.Rmd
-f0d086d251b3e162fed3fb959ca7778a *inst/doc/basics.html
+eee8b32897e64f15622835897619f145 *inst/doc/basics.html
 8f36c696063bda49f8711df4f6b1cbdf *man/advanced_search_terms.Rd
 b323fc030dd031ab33bc3326a6dd0167 *man/clinicaltrials_count.Rd
 e102e672450ad3c5aadf33fdb425681a *man/clinicaltrials_download.Rd
